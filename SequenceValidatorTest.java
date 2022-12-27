@@ -3,7 +3,7 @@ import org.junit.Test;
 
 public class SequenceValidatorTest {
 
-    private static SequenceComparable sc = null;
+    protected static SequenceComparable sc = null;
 
     @BeforeClass
     public static void init() {
