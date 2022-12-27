@@ -1,7 +1,7 @@
 # rnk challenge
 
 ### design
-![Screenshot](https://github.com/paguerre3/ddd-diagram.png?raw=true)
+![Screenshot](https://github.com/paguerre3/rnktest/blob/main/design.png?raw=true)
 
 ### license
 Copyright 2021, paguerre3
